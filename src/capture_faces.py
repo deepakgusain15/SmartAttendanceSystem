@@ -37,4 +37,5 @@ while True:
 
 cam.release()
 cv2.destroyAllWindows()
-print("Face capture completed ✅")
+print("Face capture completed ")
+
