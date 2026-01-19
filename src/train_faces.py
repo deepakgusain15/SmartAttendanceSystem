@@ -37,5 +37,6 @@ data = {"encodings": known_encodings, "names": known_names}
 with open(encodings_path, "wb") as f:
     pickle.dump(data, f)
 
-print("Training complete ✅")
+print("Training complete ")
 print("Encodings saved in encodings/encodings.pkl")
+
